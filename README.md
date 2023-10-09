@@ -44,7 +44,7 @@ The first time you try doing this, you will get an error asking you to configure
 Use the URL of the GitHub repository you created above to configure the Remote.
 Now you should be able to push any further changes to your repository.
 
-_Include the link to your `tfcb-homework01` GitHub repository here._
+[tfcb-homework01 repository](https://github.com/MorganRaimondo/tfcb-homework01.git)
 
 ## Problem 4
 
