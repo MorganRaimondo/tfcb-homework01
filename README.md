@@ -66,7 +66,7 @@ Create a file called `README.md` and populate with Markdown. Demonstrate headers
 
 Commit this file and publish to your public GitHub repository.
 
-_Include the link to your `README.md` here._
+[README_homework01.md file link](https://github.com/MorganRaimondo/tfcb-homework01/blob/main/README.md)
 
 ## Problem 6
 
@@ -80,4 +80,8 @@ Export this as a tab-delimited `.tsv` text file with Unix line endings.
 
 Commit the modified `.xlsx` file and the `.tsv` file and publish to your public GitHub repository.
 
-_Include the link to your `.tsv` file on GitHub here._
+[Link to GitHub data folder in tfcb_homework01 repository](https://github.com/MorganRaimondo/tfcb-homework01/tree/main/messy-project-directory/data)
+
+[Link to GitHub folder](https://github.com/MorganRaimondo/tfcb-homework01.git)
+
+Pathway: messy-project-directory/data/Survey_data_tidydata.tsv
