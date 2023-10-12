@@ -3,7 +3,7 @@ README_homework01.md
 #### Tools for Computational Biology
 #### Morgan Raimondo
 
-This file explains the contents of the `tfcb-homework01` respository while demonstrating examples for headers, lists, links, embedded images, and tables using Markdown formatting. The following sections include how to format a document using markdown language. The repository can be found here: [link](https://github.com/MorganRaimondo/tfcb-homework01.git)
+This file explains the contents of the `tfcb-homework01` respository while demonstrating examples for headers, lists, links, embedded images, and tables using Markdown formatting. The following sections include how to format a document using markdown language. The repository can be found here: [link](https://github.com/MorganRaimondo/tfcb-homework01.git). All files submitted for homework are within the `tfcb-homework01` folder on GitHub.
 
 ## Folders
 
@@ -18,7 +18,7 @@ This folder includes all the python scripts needed related to this project.
 
 ### Data Folder
 
-This folder contains both raw and cleaned data related to this project. The original raw data is in the document `Survey_data.xlsx` while the cleaned, tidydata is in the document `Survey_data_tidydata.tsv`.
+This folder contains both raw and cleaned data related to this project. The original raw data is in the document `Survey_data.xlsx` while the cleaned, tidydata is in the document `Survey_data_tidydata.tsv`. There is an Excel version of this file in this folder, titled `Survery_data_tidydata.xlsx`.
 
 ### Images Folder
 
@@ -27,7 +27,9 @@ This folder contains all the images related to the project.
 | Organism            | Image Link |
 ----------------------|------------|
 |*Acanthomyrmex ferox*| ![Acanthomyrmex ferox](messy-project-directory/images/Acanthomyrmex_ferox.jpg) |
-|*Camponotus darwinii* | ![Camponotus darwinii](messy-project-directory/images/Camponotus_darwinii.jpg)
+|*Camponotus darwinii* | ![Camponotus darwinii](messy-project-directory/images/Camponotus_darwinii.jpg) |
+|*Cataglyphis fortis* | ![Cataglyphis fortis](messy-project-directory/images/Cataglyphis_fortis.jpg)|
+|*Rhytidoponera metallica* | ![Rhytidoponera metallica](messy-project-directory/images/Rhytidoponera_metallica.jpg)|
 
 ## Headers
 
